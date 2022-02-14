@@ -1,5 +1,5 @@
 from datetime import datetime
-print("Hello, world!")
+print("Hello!")
 print("We learn git")
 print("We learn GitHub")
 print("Our project: Git_Tutorial")
